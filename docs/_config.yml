@@ -32,3 +32,5 @@ gh_edit_link_text: "EPFL EDIC Website"
 gh_edit_repository: "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+exclude: [vendor]

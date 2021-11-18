@@ -1,5 +1,5 @@
 all:
-	@echo "Jekyll website for xknx.io"
+	@echo "Jekyll website for epfl systems group"
 	@echo ""
 	@echo "Preparations:"
 	@echo ""
